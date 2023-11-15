@@ -1,2 +1,2 @@
 # BandConnect
-The global link between both aspiring and successful musicians to collaborate with all types of musicians in specific genres to create the next hit. Additional features coming: Audio to music sheet translator.
+The global link between both aspiring and successful musicians to search for unique talent in whatever genre or instrument they need. Bandconnect makes the struggle for like-minded musicians for singular hits or bands disappear by allowing all to collaborate and connect on one platform. Create your dream song or band by choosing the genre and personal specifications to suit your band such as experience, personality, and more.
